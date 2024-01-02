@@ -9,15 +9,15 @@
 - **python**
 - **pandas**
 - **numpy**
-- **scipy**
 - **matplotlib.pyplot**
-- sklearn.model_selection.**cross_val_score**
-- sklearn.model_selection.**train_test_split**
-- sklearn.metrics.**mean_absolute_error**
-- sklearn.preprocessing.**StandardScaler**
-- sklearn.linear_model **LinearRegression**
-- sklearn.linear_model **Lasso**
-- sklearn.tree **DecisionTreeRegressor**
+- **sklearn**
+  - sklearn.model_selection.**cross_val_score**
+  - sklearn.model_selection.**train_test_split**
+  - sklearn.metrics.**mean_absolute_error**
+  - sklearn.preprocessing.**StandardScaler**
+  - sklearn.linear_model **LinearRegression**
+  - sklearn.linear_model **Lasso**
+  - sklearn.tree **DecisionTreeRegressor**
 
 ## Общий вывод
 
